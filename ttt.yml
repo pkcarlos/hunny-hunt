@@ -1,0 +1,48 @@
+opening: |
+  You're with Pooh on the hunt for some "hunny."
+  Luckily, some of his friends in the Hundred Acre Wood know where to find it.
+  You might need to win against them in a friendly game of tic-tac-toe, though, before they tell you its whereabouts.
+   
+dialogue: |
+  And I know a marvelous game!
+  It's called "tic-tac-toe".
+  
+rules: |
+  POOH:
+  It's quite simple, really.
+  You and a friend will take turns placing your markers in any empty square.
+  The first one with three markers in a row wins!
+   
+difficulty: |
+    Would you like to play it easy or are you looking for a challenge?
+    
+    [1] Go easy on me! (EASY GAMEPLAY)
+    [2] I'd like a challenge! (DIFFICULT GAMEPLAY)
+
+lose: |
+  What a shame.
+  No hunny for you this time.
+
+goodbye: |
+  POOH:
+  Come back soon! I'm always on the hunt for hunny.
+  See, the only reason for being a bee is to make hunny.
+  And the only reason for making hunny is so I can eat it.
+  G'bye!
+  
+honeypot: |
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⡀⠀⠀⠀⠀⠀⠀⠀
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⡷⠀⠀⠀⠀⠀⠀⠀
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠿⠿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  ⠀⠀⠀⠀⠀⠀⣠⣶⡶⠀⠀⠀⠀⢰⣶⣶⣶⣶⣶⣶⣶⣶⣤⠀⠀⠀⠀⠀⠀⠀
+  ⠀⠀⠀⠀⠀⠀⠻⢿⣷⣀⣀⣀⣀⣸⣿⣿⣿⣿⣿⣿⣿⡿⠟⠀⠀⠀⠀⠀⠀⠀
+  ⠀⠀⠀⠀⠀⠀⠀⢀⣾⡟⠛⠛⠛⠛⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀
+  ⠀⠀⠀⠀⠀⠀⠀⣾⣿⡇⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀
+  ⠀⠀⠀⠀⠀⠀⢰⣿⣿⡇⠀⢀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀
+  ⠀⠀⠀⠀⠀⠀⢸⣿⣿⡇⠀⣼⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀
+  ⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⠀⣿⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀
+  ⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⡀⢹⠀⢻⣿⣿⣿⣿⣿⣿⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠘⠛⠛⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
