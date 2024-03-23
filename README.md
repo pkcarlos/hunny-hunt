@@ -13,7 +13,7 @@ In Pooh's Honey Hunt Tic-Tac-Toe, you'll join Winnie the Pooh, Piglet, Tigger, a
 # Installation
 
 1. Clone the repository to your local machine.
-2. Navigate to the project directory `jedi_mind_gesture`.
+2. Navigate to the project directory `hunny_hunt`.
 3. Run the game file: `ruby main_game.rb`
 
 ## How to Play
